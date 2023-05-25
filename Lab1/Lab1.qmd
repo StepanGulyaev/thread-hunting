@@ -1,6 +1,6 @@
 ---
 title: "Лабораторная работа №1"
-author: "Гуляев Степан"
+author: "Гуляев Степан БИСО-01-20"
 format:
     md:
         output-file: README.md
