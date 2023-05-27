@@ -1,0 +1,8 @@
+---
+title: "Создание сайта через GitHub Pages"
+author: "Гуляев Степан БИСО-01-20"
+format: 
+    md:
+        output-file: README.md
+---
+https://stepangulyaev.github.io/quarta_website/
